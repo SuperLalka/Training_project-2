@@ -1,157 +1,157 @@
 ﻿@import url('https://fonts.googleapis.com/css?family=Lilita+One&display=swap');
 @media (min-device-width: 768px) {
-body { 
-  width: 65vw;
+  body { 
+    width: 65vw;
 }
-header {
-  height: 20vh;
+  header {
+    height: 120px;
 }
-.art_left, .art_right {
-  width: 20vw;
-  margin-top: 20px;
+  .art_left, .art_right {
+    width: 20vw;
+    margin-top: 20px;
 } 
-.art_center {
-  width: 25vw;
+  .art_center {
+    width: 25vw;
 }
-.cell1, .cell1b {
-  height: 40px;
-  font: 12pt Lilita One, sans-serif; 
+  .cell1, .cell1b {
+    height: 40px;
+    font: 12pt Lilita One, sans-serif; 
 }
-.cell2 {
-  height: 100px;
-  font: 34pt Lilita One, sans-serif;
-  border-bottom: 1px solid black;
+  .cell2 {
+    height: 100px;
+    font: 34pt Lilita One, sans-serif;
+    border-bottom: 1px solid black;
 }
-.cell2b {
-  height: 100px;
-  font: 34pt Lilita One, sans-serif;
-  border-bottom: 1px solid white;
+  .cell2b {
+    height: 100px;
+    font: 34pt Lilita One, sans-serif;
+    border-bottom: 1px solid white;
 }
-.cell3 {
-  height: 50px;
-  font: 12pt Lilita One, sans-serif;
-  border-bottom: 1px solid black;
+  .cell3 {
+    height: 50px;
+    font: 12pt Lilita One, sans-serif;
+    border-bottom: 1px solid black;
 }
-.cell3b {
-  height: 50px;
-  font: 12pt Lilita One, sans-serif;
-  border-bottom: 1px solid white;
+  .cell3b {
+    height: 50px;
+    font: 12pt Lilita One, sans-serif;
+    border-bottom: 1px solid white;
 }
-.cell4 {
-  height: 70px;
+  .cell4 {
+    height: 70px;
 }
-.button1 {
-  font-size: 12px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 1px;
+  .button1 {
+    font-size: 12px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 1px;
 }
-.button2 {
-  font-size: 12px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 1px;
+  .button2 {
+    font-size: 12px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 1px;
 }
 }
 @media (min-device-width: 426px) and (max-device-width: 767px) {
-body { 
-  width: 80vw;
+  body { 
+    width: 80vw;
 }
-header {
-  height: 15vh;
+  header {
+    height: 120px;
 }
-.art_left, .art_right {
-  width: 25vw;
-  margin-top: 20px;
+  .art_left, .art_right {
+    width: 25vw;
+    margin-top: 20px;
 } 
-.art_center {
-  width: 30vw;
+  .art_center {
+    width: 30vw;
 }
-.cell1, .cell1b {
-  height: 50px;
-  font: 15pt Lilita One, sans-serif; 
+  .cell1, .cell1b {
+    height: 50px;
+    font: 15pt Lilita One, sans-serif; 
 }
-.cell2 {
-  height: 100px;
-  font: 45pt Lilita One, sans-serif;
-  border-bottom: 2px solid black;
+  .cell2 {
+    height: 100px;
+    font: 45pt Lilita One, sans-serif;
+    border-bottom: 2px solid black;
 }
-.cell2b {
-  height: 100px;
-  font: 45pt Lilita One, sans-serif;
-  border-bottom: 2px solid white;
+  .cell2b {
+    height: 100px;
+    font: 45pt Lilita One, sans-serif;
+    border-bottom: 2px solid white;
 }
-.cell3 {
-  height: 60px;
-  font: 17pt Lilita One, sans-serif;
-  border-bottom: 2px solid black;
+  .cell3 {
+    height: 60px;
+    font: 17pt Lilita One, sans-serif;
+    border-bottom: 2px solid black;
 }
-.cell3b {
-  height: 60px;
-  font: 17pt Lilita One, sans-serif;
-  border-bottom: 2px solid white;
+  .cell3b {
+    height: 60px;
+    font: 17pt Lilita One, sans-serif;
+    border-bottom: 2px solid white;
 }
-.cell4 {
-  height: 100px;
+  .cell4 {
+    height: 100px;
 }
-.button1 {
-  font-size: 20px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 2px;
+  .button1 {
+    font-size: 20px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 2px;
 }
-.button2 {
-  font-size: 20px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 2px;
+  .button2 {
+    font-size: 20px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 2px;
 }
 }
 @media (max-device-width: 425px) {
-body { 
-  width: 90vw;
+  body { 
+    width: 90vw;
 }
-.art_left, .art_right {
-  width: 100%;
-  margin: 20px auto;
+  .art_left, .art_right {
+    width: 100%;
+    margin: 20px auto;
 } 
-.art_center {
-  width: 100%;
+  .art_center {
+    width: 100%;
 }
-.cell1, .cell1b {
-  height: 150px;
-  font: 45pt Lilita One, sans-serif; 
+  .cell1, .cell1b {
+    height: 150px;
+    font: 45pt Lilita One, sans-serif; 
 }
-.cell2 {
-  height: 250px;
-  font: 120pt Lilita One, sans-serif;
-  border-bottom: 5px solid black;
+  .cell2 {
+    height: 250px;
+    font: 120pt Lilita One, sans-serif;
+    border-bottom: 5px solid black;
 }
-.cell2b {
-  height: 250px;
-  font: 120pt Lilita One, sans-serif;
-  border-bottom: 5px solid white;
+  .cell2b {
+    height: 250px;
+    font: 120pt Lilita One, sans-serif;
+    border-bottom: 5px solid white;
 }
-.cell3 {
-  height: 150px;
-  font: 50pt Lilita One, sans-serif;
-  border-bottom: 5px solid black;
+  .cell3 {
+    height: 150px;
+    font: 50pt Lilita One, sans-serif;
+    border-bottom: 5px solid black;
 }
-.cell3b {
-  height: 150px;
-  font: 50pt Lilita One, sans-serif;
-  border-bottom: 5px solid white;
+  .cell3b {
+    height: 150px;
+    font: 50pt Lilita One, sans-serif;
+    border-bottom: 5px solid white;
 }
-.cell4 {
-  height: 200px;
+  .cell4 {
+    height: 200px;
 }
-.button1 {
-  font-size: 50px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 3px;
-  margin: 5%;
+  .button1 {
+    font-size: 50px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 3px;
+    margin: 5%;
 }
-.button2 {
-  font-size: 50px;
-  padding: 12px 40px 12px 40px;
-  border: solid #c5a4f5 3px;
-  margin: 5%;
+  .button2 {
+    font-size: 50px;
+    padding: 12px 40px 12px 40px;
+    border: solid #c5a4f5 3px;
+    margin: 5%;
 }
 }
 body { 
