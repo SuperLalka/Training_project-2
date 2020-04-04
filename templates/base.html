@@ -1,0 +1,39 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+  <head>                         
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap" rel="stylesheet">                         
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="static/FlipSwitch.css">
+    <title>OUR PRICING                       
+    </title>               
+  </head>               
+  <body>                  
+    <div class="main">                                     
+      <header>                                  
+        <h1 class="header_text"><b>OUR PRICING</b></h1>                                  
+        <span class="header_button">                                        
+          <table>                                              
+            <tr>                                                    
+              <td class="header_cell">Annually</td>                                                    
+              <td class="header_cell">                                                          
+                <div class="onoffswitch">
+                  <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch">
+                  <label class="onoffswitch-label" for="myonoffswitch">                                                                      
+                    <span class="onoffswitch-inner">                                                             
+                    </span>
+                    <span class="onoffswitch-switch">
+                    </span>                                                                
+                  </label>                                                          
+                </div>
+              </td>
+              <td class="header_cell">Monthly</td>
+            </tr>                                        
+          </table>                                  
+        </span>                            
+      </header>
+      {% block body %}
+      {% endblock %}
+    </div>                    
+  </body>
+</html>
